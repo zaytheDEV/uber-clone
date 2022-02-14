@@ -1,4 +1,4 @@
-#Uber Clone
+Uber Clone
 
 Instructions for App
 1.	Clone the repository

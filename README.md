@@ -22,7 +22,7 @@ The Uber Clone was my first React Native project. The objective for this app was
 <b>Success</b><br/>
 With API requests from Google's Places and Directions, I was able to implement address search field. A user can enter any address for their pickup and drop-off location. 
 
-With Redux I was able to manage the users state and render components based off of address entry. 
+With Redux I was able to manage the users state and render components based off of address entry. After entering an address Redux dispatches a pull request to render the quickest route from the pickup to drop-off location. 
 
 Pulling address data from Google API as in time, latitude and longitude,  I was able to properly calculate the total trip. The trip cost consist of the distance, time, and vehicle type. 
 

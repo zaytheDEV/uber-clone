@@ -1,6 +1,6 @@
 Uber Clone
 
-To view video of the app please visit my portfolio linked below
+To view video of the app please visit my portfolio linked below</br>
 https://zaythedev.com/uber-clone
 
 

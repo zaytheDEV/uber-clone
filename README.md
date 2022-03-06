@@ -4,7 +4,7 @@ To view video of the app please visit my portfolio linked below</br>
 https://zaythedev.com/uber-clone
 
 
-Stack: 
+Stack:</br>
 React Native
 Expo
 TailwindCSS

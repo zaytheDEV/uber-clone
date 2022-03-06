@@ -3,13 +3,12 @@ Uber Clone
 To view video of the app please visit my portfolio linked below</br>
 https://zaythedev.com/uber-clone
 
-
-Stack:</br>
-React Native
-Expo
-TailwindCSS
-Google Places API
-Google Distance API
+<b>Stack</b>
+<li>React Native</li>
+<li>Expo</li>
+<li>TailwindCSS</li>
+<li>Google Places API</li>
+<li>Google Distance API</li>
 
 Instructions for App
 1.	Clone the repository
